@@ -28,7 +28,7 @@ month_counts[which.max(month_counts$n), ]
 library("ggplot2")
 #Visualisation for travels in the different months for new york city
 nc_plot<- ggplot(data=month_counts, aes(Month,y=n))+
-geom_line()+
+geom_line(linetype="dashed")+
 scale_x_continuous()+
 ggtitle("A bar plot showing travels for different months in New York City")+
 theme(plot.title=element_text(hjust=0.5))+
