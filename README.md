@@ -1,17 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the **project** "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+>**Note**: A repository was **forked** from Udacity repository so that I had a **remote** repository in **my** Github account. I cloned the remote repository to my local machine. Later, as a part of the **project** "Posted my Work on Github", pushed my proposed changes to the remote repository in my Github account.
 
 ### Date created
-Include the date you created this **project** and README file.
+This **project** and README file were created on 10/10/21.
 
 ### Project Title
-Replace the Project Title
+Navigation of bike sharing systems in three cities chicago, new york and washington
 
 ### Description
-Describe what your **project** is about and what it does
+The **project** involved analysis of the bike shring data from the three cities and produces visual description of the analysis using R programming language
 
 ### Files used
-Include the ~files~ used
+The ~files~ used were washington.csv, new-york-city.csv and chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Downloaded from udacity.
 
