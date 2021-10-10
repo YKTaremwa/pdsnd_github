@@ -16,4 +16,4 @@ The ~files~ used were washington.csv, new-york-city.csv and chicago.csv
 Downloaded from udacity.
 
 ### Author
-YKTaremwa
+*YKTaremwa*
